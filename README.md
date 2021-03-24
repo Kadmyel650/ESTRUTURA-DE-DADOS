@@ -8,5 +8,7 @@ public class Tipos_Primitivos {
 	      int tipoInt = 2147483647;
 	      long tipoLong = 9223372036854775807L;
 	      boolean tipoBooleano = true;
-        
+	      
+	      // ALUNO: ARTHUR ANTONIO PELIZARO  CUNHA
+	      //ALUNO: KADMYEL MARIANO SILVA NUNES
         }
